@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { createClient } from '@supabase/supabase-js';
 import { 
   Menu, X, ShoppingCart, ChevronLeft, ChevronRight, 
-  Trash2, Plus, ShieldLock, CheckCircle, Tag, Phone, 
+  Trash2, Plus, Lock, CheckCircle, Tag, Phone, 
   SlidersHorizontal, RefreshCw 
 } from 'lucide-react';
 
